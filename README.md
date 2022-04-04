@@ -63,7 +63,7 @@ Be sure to update the `README.md` file in your submission and include the follow
 
 ## How to submit
 
-Create a new **private repository** for your exercise and add the Welcome hiring team members as private collaborators. We do this to preserve your anonymity so it's not obvious you are looking for a new tole.
+Create a new **private repository** for your exercise and add the Sympli hiring team members as private collaborators. We do this to preserve your anonymity so it's not obvious you are looking for a new tole.
 - [Xinxin Li](https://github.com/xinxin-sympli)
 - [Mark Panetta](https://github.com/mjpanetta)
 
