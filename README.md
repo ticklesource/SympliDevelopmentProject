@@ -58,17 +58,17 @@ Be sure to update the `README.md` file in your submission and include the follow
 - A super-simple test suite if applicable
 - How to test/demo/run
 - Some form of lightweight technical documentation (code comments are fine)
-- A list of what you would add/change if you had more tim
+- A list of what you would add/change if you had more time
 - Anything else you'd lke us to know about your submission
 
 ## How to submit
 
-Create a new **private repository** for your exercise and add the Sympli hiring team members as private collaborators. We do this to preserve your anonymity so it's not obvious you are looking for a new tole.
+Create a new **private repository** for your exercise and add the Sympli hiring team members as private collaborators. We do this to preserve your anonymity so it's not obvious you are looking for a new role.
 - [Xinxin Li](https://github.com/xinxin-sympli)
 - [Mark Panetta](https://github.com/mjpanetta)
 
-## Way to get help
+## Next Step
 
-Feel free to contact Amee our Talent Acquisition Manager at <amee.karat@sympli.com.au> for any questions.
+Once finished, share the link with Amee our Talent Acquisition Manager at <amee.karat@sympli.com.au> and we will get back to you within 48 hours.
 
 ## Have fun  :smiley:
