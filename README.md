@@ -47,6 +47,8 @@ The CEO is impressed with your work. He would like the application to be extende
 ## Expectation
 The solution is written in C# and compiles/runs with .NET6.
 
+***Do not use any 3rd party libraries that are not part of the .NET framework in your solution and do not use Google Search API.***
+
 The `controller` has been created for you and the `GetResult` method is recommended to start with.
 
 The problem itself is not designed to be overly complex however the expectation is that candidates will approach this as if it were a real project and deliver production quality code. When assessing this project, we will be reviewing not only that you have solved the problems as per the requirements, but **how** you have solved it and the quality of both your code and deliverable.
