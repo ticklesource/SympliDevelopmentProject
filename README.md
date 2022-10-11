@@ -68,6 +68,7 @@ Be sure to update the `README.md` file in your submission and include the follow
 Create a new **private repository** using this one as a template for your exercise and add the Sympli hiring team members as private collaborators. We do this to preserve your anonymity so it's not obvious you are looking for a new role.
 - [Xinxin Li](https://github.com/xinxin-sympli)
 - [Mark Panetta](https://github.com/mjpanetta)
+- [Ahammad Firoj](https://github.com/ahammad-firoj)
 
 ## Next Step
 
