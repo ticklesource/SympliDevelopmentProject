@@ -8,8 +8,6 @@ For current open positions, see <https://www.linkedin.com/company/sympli-austral
 
 Hello! If you are reading this then you're likely in the process of interviewing with a technical role at [Sympli](https://www.sympli.com.au/). If so, congratulations :tada: !
 
-In order to move forward, we'd like to know a little about how you work. To that end, this repository contains a **short, time-boxed** (approximately 1-1.5 hours max) that you can use demonstrate your skills and abilities.
-
 Your task is to build an API that fulfills the requirements below. We have set up the project and defined the API for you to have a quicker start.
 
 ## Before you get started
@@ -22,7 +20,7 @@ That being said, for those candidates who are not a fan of take-home exercises w
 
 Whichever way you pick, we understand this is a time investment for you. You should probably not spend any time on it before you have a fair understanding of Sympli and the role. Feel free to contact Amee our Talent Acquisition Manager at <amee.karat@sympli.com.au> for any questions. You're also more than welcome to ask for a chat with the hiring manager directly.
 
-We intentionally design this exercise to take 1-1.5 hours and ask you to limit your commitment to no more than the suggested time.
+We recommend that you spend no more than 2 hours on this technical test.
 
 ## The problem
 
