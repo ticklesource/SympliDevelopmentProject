@@ -20,8 +20,6 @@ That being said, for those candidates who are not a fan of take-home exercises w
 
 Whichever way you pick, we understand this is a time investment for you. You should probably not spend any time on it before you have a fair understanding of Sympli and the role. Feel free to contact Amee our Talent Acquisition Manager at <amee.karat@sympli.com.au> for any questions. You're also more than welcome to ask for a chat with the hiring manager directly.
 
-We recommend that you spend no more than 2 hours on this technical test.
-
 ## The problem
 
 The CEO at Sympli is very interested in SEO and how this can improve Sales. Every morning he logs into `google.com.au` and types in the same key words `e-settlements` and counts down to see where and how many times their company, `www.sympli.com.au` sits on the list.
@@ -65,8 +63,9 @@ Be sure to update the `README.md` file in your submission and include the follow
 
 Create a new **private repository** using this one as a template for your exercise and add the Sympli hiring team members as private collaborators. We do this to preserve your anonymity so it's not obvious you are looking for a new role.
 - [Xinxin Li](https://github.com/xinxin-sympli)
-- [Mark Panetta](https://github.com/mjpanetta)
 - [Ahammad Firoj](https://github.com/ahammad-firoj)
+- [Ronald Suharta] (https://github.com/ronnie-sympli)
+- [Tom Phan] (https://github.com/tomphan-projecttickle)
 
 ## Next Step
 
