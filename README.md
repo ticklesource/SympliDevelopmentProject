@@ -61,14 +61,6 @@ Be sure to update the `README.md` file in your submission and include the follow
 
 ## How to submit
 
-Create a new **private repository** using this one as a template for your exercise and add the Sympli hiring team members as private collaborators. We do this to preserve your anonymity so it's not obvious you are looking for a new role.
-- [Xinxin Li](https://github.com/xinxin-sympli)
-- [Ahammad Firoj](https://github.com/ahammad-firoj)
-- [Ronald Suharta] (https://github.com/ronnie-sympli)
-- [Tom Phan] (https://github.com/tomphan-projecttickle)
-
-## Next Step
-
-Once finished, share the link with Amee our Talent Acquisition Manager at <amee.karat@sympli.com.au> and we will get back to you within 48 hours.
+Share a copy of your project including all supporting files with us via email. Please do NOT make it public in any means.
 
 ## Have fun  :smiley:
