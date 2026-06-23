@@ -18,7 +18,7 @@ That being said, for those candidates who are not a fan of take-home exercises w
 - Whiteboarding/Live-coding interviews where you will be given a problem to solve during the interview that involves writing some code.
 - Show-your-code where you bring a code repo that you're proud of in and we will review the codebase together. Please note the code repo should contain no intellectual properties of a third party.
 
-Whichever way you pick, we understand this is a time investment for you. You should probably not spend any time on it before you have a fair understanding of Sympli and the role. Feel free to contact Amee our Talent Acquisition Manager at <amee.karat@sympli.com.au> for any questions. You're also more than welcome to ask for a chat with the hiring manager directly.
+Whichever way you pick, we understand this is a time investment for you. You should probably not spend any time on it before you have a fair understanding of Sympli and the role. Feel free to contact Wayne at <wayne.davidson@sympli.com.au> for any questions.
 
 ## The problem
 
@@ -41,7 +41,7 @@ The CTO at Sympli has become interested in this project and has added a requirem
 The CEO is impressed with your work. He would like the application to be extended so that he can see and compare results from other search engines, such as Bing. As a developer, you anticipate that further search engines may also require support in the future.
 
 ## Expectation
-The solution is written in C# and compiles/runs with .NET6.
+The solution is written in C# and compiles/runs with .NET10.
 
 ***Do not use any 3rd party libraries that are not part of the .NET framework in your solution and do not use Google Search API.***
 
